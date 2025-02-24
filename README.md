@@ -1,4 +1,4 @@
-# Weather Forecasting Web Application
+<img width="698" alt="Screenshot 2025-02-24 at 11 50 41 AM" src="https://github.com/user-attachments/assets/2088e22b-ac37-4241-87f2-e280f5082615" /># Weather Forecasting Web Application
 
 Welcome to the Weather Forecasting Web Application! This project is a simple yet powerful web application that provides real-time weather forecasts for any location. Built using HTML, CSS, JavaScript, and a weather forecasting API, this application is designed to be user-friendly and easy to use.
 
