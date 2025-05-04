@@ -1,6 +1,18 @@
-<img width="698" alt="Screenshot 2025-02-24 at 11 50 41 AM" src="https://github.com/user-attachments/assets/2088e22b-ac37-4241-87f2-e280f5082615" /># Weather Forecasting Web Application
+<img width="698" alt="Screenshot 2025-02-24 at 11 50 41 AM" src="https://github.com/user-attachments/assets/2088e22b-ac37-4241-87f2-e280f5082615" />
+(https://github.com/user-attachments/assets/7067a129-bd96-4614-8ee9-05a284fc82c8)
 
-Welcome to the Weather Forecasting Web Application! This project is a simple yet powerful web application that provides real-time weather forecasts for any location. Built using HTML, CSS, JavaScript, and a weather forecasting API, this application is designed to be user-friendly and easy to use.
+# Climate pridction Web Application
+
+Welcome to the Climate Pridiction Web Application! This project is a simple yet powerful web application that provides real-time weather forecasts for any location. Built using HTML, CSS, JavaScript, and a weather forecasting API, this application is designed to be user-friendly and easy to use.
+
+Climate prediction projects aim to forecast future climate conditions using various scientific methods. These projects often involve analyzing historical climate data, developing and running complex computer models, and considering factors like atmospheric and oceanic patterns, solar radiation, and human activities.
+
+The goals of climate prediction projects can include:
+
+Understanding climate variability and change: Investigating the natural fluctuations in climate and the long-term trends of global warming.
+Improving climate models: Enhancing the accuracy and reliability of the computer simulations used to predict future climate.
+Generating climate projections: Developing scenarios of potential future climates based on different assumptions about greenhouse gas emissions and other factors.
+Providing climate information for decision-making: Supplying data and analysis that can help governments, businesses, and individuals plan for and adapt to the impacts of climate change.
 
 ## Features
 
